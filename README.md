@@ -2,7 +2,7 @@
 
 Interaktives Online-Tool zur Darstellung der Brut- und Gastvögel im Tarifverbund Nordwestschweiz (TNW).
 
-**→ [Online-Tool öffnen](https://DEIN-USERNAME.github.io/DEIN-REPO-NAME/)**
+**→ [Online-Tool öffnen](https://tobiasroth.github.io/verbreitungskaertchen-OGB/)**
 
 ## Inhalt
 
@@ -22,9 +22,3 @@ Nicolas Martinez, Anne-Catherine Gutzwiller, Stefan Häring, Milan Pestalozzi, V
 ## Daten
 
 Datengrundlage: [ornitho.ch](https://www.ornitho.ch), Monitoring häufige Brutvögel, Biodiversitätsmonitoring Schweiz, Brutvogelkartierungen BL. Daten bereitgestellt durch die Schweizerische Vogelwarte Sempach.
-
-## GitHub Pages einrichten
-
-1. Dieses Repository auf GitHub pushen
-2. Repo-Einstellungen → **Pages** → Source: `main` branch, Root `/`
-3. Nach wenigen Minuten ist das Tool unter `https://DEIN-USERNAME.github.io/DEIN-REPO-NAME/` erreichbar
