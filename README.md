@@ -1,2 +1,30 @@
-# verbreitungskaertchen-OGB
-Interaktives Online-Tool zur Darstellung der Brut- und Gastvögel in der Nordwestschweiz.
+# Verbreitungskärtchen Nordwestschweiz 2014–2025
+
+Interaktives Online-Tool zur Darstellung der Brut- und Gastvögel im Tarifverbund Nordwestschweiz (TNW).
+
+**→ [Online-Tool öffnen](https://DEIN-USERNAME.github.io/DEIN-REPO-NAME/)**
+
+## Inhalt
+
+- **285 Verbreitungskärtchen** (PNG) aller nachgewiesenen Vogelarten 2014–2025
+- Suche und Filter nach Artname, Brutvogel oder Gastvogel
+- Thumbnail-Galerie mit Lazy Loading
+- Vollbild-Ansicht mit Download-Funktion
+- Vergleichsmodus: bis zu 4 Arten nebeneinander
+- Hintergrundinformationen zur Methodik und Legende
+
+## Autoren
+
+Nicolas Martinez, Anne-Catherine Gutzwiller, Stefan Häring, Milan Pestalozzi, Valentin Moser, Simon Hohl, Dominic Bürgi, Tobias Roth
+
+**OGB – Ornithologische Gesellschaft Basel**
+
+## Daten
+
+Datengrundlage: [ornitho.ch](https://www.ornitho.ch), Monitoring häufige Brutvögel, Biodiversitätsmonitoring Schweiz, Brutvogelkartierungen BL. Daten bereitgestellt durch die Schweizerische Vogelwarte Sempach.
+
+## GitHub Pages einrichten
+
+1. Dieses Repository auf GitHub pushen
+2. Repo-Einstellungen → **Pages** → Source: `main` branch, Root `/`
+3. Nach wenigen Minuten ist das Tool unter `https://DEIN-USERNAME.github.io/DEIN-REPO-NAME/` erreichbar
